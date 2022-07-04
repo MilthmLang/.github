@@ -15,3 +15,6 @@ If you are interested in our further developments, see:
 - Visit us on Taptap by searching '森零制作组'
 
 🌹Thanks for your time.
+
+# June Updates
+<iframe src="//player.bilibili.com/player.html?aid=370200648&bvid=BV1VN4y1g7xe&cid=174817071&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
