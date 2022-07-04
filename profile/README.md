@@ -14,7 +14,8 @@ If you are interested in our further developments, see:
 - Join our supporters' QQ group: 1075696523
 - Visit us on Taptap by searching '森零制作组'
 
-🌹Thanks for your time.
+News:
 
-# June Updates
-<iframe src="//player.bilibili.com/player.html?aid=370200648&bvid=BV1VN4y1g7xe&cid=174817071&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- [June Updates](https://player.bilibili.com/player.html?aid=897971716&bvid=BV1VN4y1g7xe&cid=760128861&page=1)
+
+🌹Thanks for your time.
