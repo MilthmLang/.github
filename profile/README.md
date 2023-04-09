@@ -2,6 +2,8 @@ Our current project:
 
 * Milthm
 
-Suspending project:
-
 * Starvior
+
+Terminated project:
+
+* Starvior(Old)
